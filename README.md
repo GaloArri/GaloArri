@@ -1,16 +1,23 @@
-### Hi there 👋
+<h2 align="left">Aló 👋</h2>
 
-<!--
-**GaloArri/GaloArri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GaloArri&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true" height="150" alt="languages graph"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<img align="right" height="150" src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif"  />
+
+###
+
+<p align="left">🎴Estudiante de "Licenciatura en Informatica" en la UNLP🎴</p>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/GaloArri/GaloArri/blob/output/snake.svg" alt="Snake animation" />
+
+###
